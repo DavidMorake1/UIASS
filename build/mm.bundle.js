@@ -71967,11 +71967,11 @@ angular.module('mm.core')
     "demo_sites": {"student": {"url": "http://freedomspeak.com/moodl/", "username": "student", "password": "moodle"}, "teacher": {"url": "http://freedomspeak.com/moodl/", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://freedomspeak.net/moodl",
-    "presets" : {"url": "http://freedomspeak.net/moodl", "username": ""},
+    "siteurl": "http://www.uiass-etudiants.ma/moodle/",
+    "presets" : {"url": "http://www.uiass-etudiants.ma/moodle/", "username": ""},
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
-    "privacypolicy": "http://freedomspeak.com/moodl/"
+    "privacypolicy": "http://www.uiass-etudiants.ma/moodle/"
 }
 );
