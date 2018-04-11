@@ -71968,6 +71968,7 @@ angular.module('mm.core')
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
     "siteurl": "http://freedomspeak.com/moodl",
+    "presets" : {"url": "http://freedomspeak.net/moodl", "username": ""},
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
     "forcedefaultlanguage": "false",
