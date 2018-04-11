@@ -71967,7 +71967,7 @@ angular.module('mm.core')
     "demo_sites": {"student": {"url": "http://freedomspeak.com/moodl/", "username": "student", "password": "moodle"}, "teacher": {"url": "http://freedomspeak.com/moodl/", "username": "teacher", "password": "moodle"}},
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile",
-    "siteurl": "http://freedomspeak.com/moodl",
+    "siteurl": "",
     "presets" : {"url": "http://freedomspeak.net/moodl", "username": ""},
     "multisitesdisplay": "select",
     "skipssoconfirmation": "false",
